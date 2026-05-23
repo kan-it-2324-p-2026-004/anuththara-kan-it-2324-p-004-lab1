@@ -1,1 +1,3 @@
-# anuththara-kan-it-2324-p-004-lab1
+My Name: Anuththara Rajapaksha
+Course: HNDIT
+This is my GitHub lab work.
